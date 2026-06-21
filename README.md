@@ -1,14 +1,12 @@
-# 🌿 Plant Disease Detection AI System
+# 🌿 Plant Disease Detector AI System
 
 ## 📌 Project Overview
-This project is a Deep Learning web application designed to predict and identify plant diseases from leaf images. It utilizes a highly accurate computer vision model deployed via a user-friendly Streamlit interface.
+This project is an AI web application to predict plant diseases from leaf images. 
 
 ## 🚀 Live Demo
-You can try the application live here: **[[](https://plant-disease-detector-1.streamlit.app/)]**
-## 🛠️ Technologies Used
-* **Machine Learning Framework:** TensorFlow & Keras
-* **Web Framework:** Streamlit
-* **Language:** Python
-* **Data Processing:** NumPy, Pillow
+Try the application here: **[https://plant-disease-detector-1.streamlit.app/](https://plant-disease-detector-1.streamlit.app/)**
 
+## 🛠️ Technologies Used
+* **Frameworks:** TensorFlow, Keras, Streamlit
+* **Language:** Python
 
