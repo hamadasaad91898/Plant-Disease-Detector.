@@ -11,12 +11,4 @@ You can try the application live here: **[[](https://plant-disease-detector-1.st
 * **Language:** Python
 * **Data Processing:** NumPy, Pillow
 
-## ⚙️ How to Run Locally
 
-Clone the repository:
-1- Install the required packages:
-pip install -r requirements.txt
-2- Run the Streamlit app:
-streamlit run app.py
-
-   
