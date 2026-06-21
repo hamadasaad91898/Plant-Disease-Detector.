@@ -30,7 +30,7 @@ model = load_model()
 class_names = load_class_names()
 
 # 3. Main UI
-st.title("🌱 Plant Disease Prediction")
+st.title("🌱 Plant Disease Detector")
 st.write("Upload a leaf image to predict the disease.")
 
 # 4. Upload image
