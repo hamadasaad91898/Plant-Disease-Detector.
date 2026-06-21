@@ -15,7 +15,7 @@ st.sidebar.title("🌿 Plant AI System")
 # 2. Load the model and class names
 @st.cache_resource
 def load_model():
-    model = tf.keras.models.load_model("plant_disease_model.keras")
+    model = tf.keras.models.load_model("plant_disease_model.keras", compile=False)
     return model
 
 @st.cache_data
